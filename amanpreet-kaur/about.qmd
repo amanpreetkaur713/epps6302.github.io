@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+About Amanpreet Kaur
+
+I am a student at the University of Texas pursuing my master's degree in Social Data Analytics and Research. I am a first generation student and the first to graduate in my family with a bachelor's degree in the United States. EPPS 6302 is the first course taught by Professor Karl Ho that I have taken so far.
+
+```{r}
+1 + 1
+```
